@@ -45,39 +45,19 @@ People with speech or hearing disabilities face constant communication barriers,
 |-----------------------|--------------------------------------|-----------------------------------------------|
 | **Frontend**          | HTML, CSS, JavaScript, React         | UI interface, camera input, real-time feedback|
 | **Vision Processing** | OpenCV, MediaPipe Hands              | Frame capture, landmark detection             |
-| **ML/DL Framework**   | TensorFlow, Keras, PyTorch           | Training gesture recognition models           |
+| **ML/DL Framework**   | TensorFlow                           | Training gesture recognition models           |
 | **Text-to-Speech**    | gTTS, Google Cloud TTS               | Voice conversion of recognized text           |
 | **Backend (optional)**| Flask / Node.js                      | Serve models and APIs                         |
-| **Deployment**        | Streamlit, Web App (Flask or React)  | Hosting and demo                              |
-
----
-
-## 👥 Team Role Distribution
-
-| Team Member         | Role                                         |
-|---------------------|-----------------------------------------------|
-| Divyam (Team Leader)| System architecture, integration, pitch      |
-| Member 1            | Frontend design + camera input integration    |
-| Member 2            | Gesture recognition pipeline (MediaPipe/OpenCV)|
-| Member 3            | Model training and dataset processing         |
-| Member 4            | Text-to-speech & output system integration    |
+| **Deployment**        | Github                               | Hosting and demo                              |
 
 ---
 
 ## 📊 Dataset
 - **Indian Sign Language (ISL) Fingerspelling Dataset**
-- Option to build a **custom gesture dataset** using webcam
+- build a **custom gesture dataset** using webcam
 - Possible augmentation for accuracy improvement
 
 ---
-
-## 📦 Tools & Libraries
-- MediaPipe Hands / Pose
-- OpenCV
-- TensorFlow/Keras or PyTorch
-- gTTS / Google Cloud TTS
-- Streamlit / Flask / React (based on implementation needs)
-
 ---
 
 ## 🌱 Future Enhancements
@@ -85,8 +65,8 @@ People with speech or hearing disabilities face constant communication barriers,
 - Multilingual speech output (Hindi, Tamil, etc.)
 - Facial expression analysis for emotion detection
 - Mobile app version
-- Context-aware NLP for intelligent responses
-- Integration with assistive IoT devices (e.g., smart boards, alerts)
+- Context-aware NLP for intelligent responses [NLP (Natural Language Processing) is a branch of Artificial Intelligence (AI) that focuses on enabling machines to understand, interpret, process, and generate human language (text or speech). It acts as a bridge between human communication (natural language) and computer understanding (machine language).]
+- Integration with assistive IoT devices (e.g., smart boards, gloves, wristbands)
 
 ---
 
