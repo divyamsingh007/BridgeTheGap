@@ -81,3 +81,8 @@ People with speech or hearing disabilities face constant communication barriers,
 ## 📂 License
 This project is developed for educational and assistive purposes. Contributions are not welcome yet!
 All rights and reserves goes to Team Cyber Spartans.
+
+---
+
+![image](https://github.com/user-attachments/assets/3bd56293-ef11-4ad7-af24-552b605e49ce)
+
