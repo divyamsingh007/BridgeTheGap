@@ -37,32 +37,7 @@ People with speech or hearing disabilities face constant communication barriers,
 
 ---
 
-## 🧩 Module-Wise Breakdown
 
-### 🔸 Module 1: Input System
-- Capture real-time camera feed using JS/OpenCV.
-- Preprocess frames for recognition.
-
-### 🔸 Module 2: Gesture Recognition
-- Use **MediaPipe Hands** to detect 21 hand landmarks.
-- Extract coordinates and features for classification.
-
-### 🔸 Module 3: Sign Classification
-- Train a model (CNN or CNN-LSTM) to classify gestures.
-- Use **ISL datasets or custom collected dataset**.
-
-### 🔸 Module 4: Text Mapping & Sentence Construction
-- Collect a sequence of signs and form structured sentences using **basic NLP logic**.
-
-### 🔸 Module 5: Text-to-Speech Converter
-- Use **gTTS** or **Google TTS API** to convert text to audio output.
-
-### 🔸 Module 6: Output Interface
-- Display recognized text on screen.
-- Play speech via audio output.
-- Provide user controls (start/stop, clear, etc.)
-
----
 
 ## ⚙️ Tech Stack
 
