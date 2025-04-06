@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: auto;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    text-align: center;
+    margin: 20px;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+}
+.interface{
+ width: 40vw;
+ height: 50vh;
+ background-color: aqua;
+}
+#start,#stop{
+    height: 50px;
+    width: 100px;
+    margin: 10px;
+}
+#output{
+    width: 40vw;
+    height: 5vh;
+    margin-top: 20px;
+}
