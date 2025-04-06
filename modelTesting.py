@@ -5,8 +5,8 @@ import os
 from tensorflow.keras.models import load_model
 
 # Load model and labels
-model = load_model("my_last_model.h5")
-with open("my_labels.txt", "r") as f:
+model = load_model("/model/my_last_model.h5")
+with open("/model/my_labels.txt", "r") as f:
     labels = [line.strip() for line in f.readlines()]
 
 # Initialize MediaPipe Hands
