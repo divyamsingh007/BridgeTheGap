@@ -1,5 +1,7 @@
 # BridgeTheGap
 
+Empowering Expressions — One Sign at a Time.
+
 # 🤟 Sign to Speech - AI-Based Assistive Communication Tool
 
 ## 📘 Project Overview
